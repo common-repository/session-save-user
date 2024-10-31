@@ -1,0 +1,47 @@
+#table_session_save{
+	width: 320px;
+}
+.ssuv_button{
+	text-decoration: none !important;
+}
+.ssuv_avatar{
+	width:50px; 
+	height:50px; 
+	border-radius:100px;
+	-moz-border-radius:100px;
+	-o-border-radius:100px;
+	-webkit-border-radius:100px;
+}
+.ssuv_p_avatar{
+	font-size:14px !important;
+}
+.ssuv_td_user{
+	padding-left:2px; 
+	padding-right:2px;
+}
+.ssuv_prev,.ssuv_next{
+	background-color: #1781b1;
+	border:none;
+	padding: 5px 10px;
+	color:white;
+	margin-bottom: 5px;
+	cursor: pointer;
+	font-weight: bold;
+	font-size: 20px;
+}
+.ssuv_button_disabled{
+	background-color: #ccc;
+}
+.delete_user{
+	position: absolute;
+	font-size: 10px;
+	background-color: #CC3333;
+	padding: 2px 7px;
+	color: white;
+	border-radius: 300px;
+	margin-top: 0px;
+	margin-left: -5px;
+	cursor: pointer;
+	font-weight: bold;
+
+}
